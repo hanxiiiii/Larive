@@ -1,0 +1,114 @@
+@charset "EUC-KR";
+
+#container{
+  width:500px;
+  height:100px;
+  margin:50px auto;
+  text-align: center;
+}
+.button-4{
+  width:140px;
+  height:50px;
+  border:2px solid #041445;
+  float:left;
+  text-align:center;
+  cursor:pointer;
+  position:relative;
+  box-sizing:border-box;
+  overflow:hidden;
+  margin:0 0 0px 95px;
+  border-radius: 10px;
+}
+.button-4 a{
+  font-family:arial;
+  font-size:16px;
+  color:#041445;
+  text-decoration:none;
+  line-height:50px;
+  transition:all .5s ease;
+  z-index:2;
+  position:relative;
+  text-align:center;
+}
+.eff-4{
+  width:140px;
+  height:50px;
+  left:-140px;
+  background:#041445;
+  position:absolute;
+  transition:all .5s ease;
+  z-index:1;
+  text-align:center;
+}
+.button-4:hover .eff-4{
+  left:0;
+  text-align:center;
+}
+.button-4:hover a{
+  color:#fff;
+  text-align:center;
+}
+
+
+/* -----------------  버튼 구분선 입니다 ------------------ */
+
+.button-1{
+  width:140px;
+  height:50px;
+  border:2px solid #041445;
+  float:left;
+  text-align:center;
+  cursor:pointer;
+  position:relative;
+  box-sizing:border-box;
+  overflow:hidden;
+  margin:0 0 40px 30px;
+  border-radius: 10px;
+}
+.button-1 a{
+  font-family:arial;
+  font-size:16px;
+  color:#041445;
+  text-decoration:none;
+  line-height:50px;
+  transition:all .5s ease;
+  z-index:2;
+  position:relative;
+}
+.eff-1{
+  width:140px;
+  height:50px;
+  top:-2px;
+  right:-140px;
+  background:#041445;
+  position:absolute;
+  transition:all .5s ease;
+  z-index:1;
+}
+.button-1:hover .eff-1{
+  right:0;
+}
+.button-1:hover a{
+  color:#fff;
+}
+.aa {
+	text-align: center;
+	padding: 50px;
+	font-weight:bold;
+}
+
+/* -----------------  버튼 구분선 입니다 ------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

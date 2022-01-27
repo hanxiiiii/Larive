@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+table.table {
+	border-collapse: separate;
+	border-spacing: 1px;
+	text-align: center;
+	line-height: 1.5;
+	margin: 20px 10px;
+	margin-bottom: 280px;
+	margin-top: 70px;
+}
+table.table th {
+	width: 100px;
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	color: #fff;
+	background: #03164C ;
+	text-align: center;
+}
+table.table td {
+	width: 100px;
+	padding: 10px;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+	background: #eee;
+	text-align: center;
+}
+table.table .tit{
+	width: 300px;
+	padding: 10px;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+	background: #eee;
+	text-align: center;
+}
