@@ -11,6 +11,9 @@
 - Language : java
 - Test Browser : Chrome, Internet Explorer, Microsoft Edge
 
+## 실행
+- pension0503 (프로젝트명 폴더) 선택 -> WebContent -> home -> cover.jsp 선택 -> Ctrl + F11
+
 ## 주요흐름
 
 ### 회원가입
