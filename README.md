@@ -7,8 +7,8 @@
 
 ## 개발환경
 - OS : window8, window10
-- Development Tool : 아파치톰캣9, MYSQL5.7, Eclipse, Adobe XD, Bootstrap
-- Language : java
+- Development Tool :  Apache Tomcat 9, MYSQL 5.7, Eclipse, Adobe XD, Bootstrap
+- Language : JAVA Version 1.6
 - Test Browser : Chrome, Internet Explorer, Microsoft Edge
 
 ## 실행
