@@ -46,6 +46,14 @@
 - 예약하기 버튼 클릭시 예약성공 팝업창이 띄워지고, 예약정보 확인페이지로 이동
 - 상단바 RESERVE 두번째 하위메뉴인 예약확인 클릭시 예약된 목록과 정보 열람, 예약 취소 신청 가능
 
+### 리뷰 게시판
+![리뷰 목록페이지](https://user-images.githubusercontent.com/94945151/156969170-9d0dcde2-c645-4682-adec-50885a6d3766.PNG)
+![리뷰 상세페이지](https://user-images.githubusercontent.com/94945151/156969173-7c489bc8-ed30-41ad-8963-ee388ea4de54.PNG)
+![리뷰 작성페이지](https://user-images.githubusercontent.com/94945151/156969176-7f6c7258-ca8c-4b28-acbc-bf88d9552b13.PNG)
+- 예약확인 페이지에서 체크아웃 해당 날짜 다음날부터 리뷰작성 버튼 활성화
+- 숙박 완료된 유저한정 리뷰작성 가능
+- 로그인 상태에서 상단바 COMMUNUTY 클릭하여 리뷰목록, 내용보기 진입
+
 ### 가입 정보 확인 및 수정
 ![정보수정페이지](https://user-images.githubusercontent.com/94945151/154912746-7865a7a9-a524-45c5-927e-ba95a36df435.PNG)
 - 로그인 상태에서 상단바 우측의 가입된 이름 클릭하여 가입 정보 확인 및 수정 페이지 진입
