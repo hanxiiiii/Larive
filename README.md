@@ -52,7 +52,7 @@
 ![리뷰 작성페이지](https://user-images.githubusercontent.com/94945151/156969176-7f6c7258-ca8c-4b28-acbc-bf88d9552b13.PNG)
 - 예약확인 페이지에서 체크아웃 해당 날짜 다음날부터 리뷰작성 버튼 활성화
 - 숙박 완료된 유저한정 리뷰작성 가능
-- 로그인 상태에서 상단바 COMMUNUTY 클릭하여 리뷰목록, 내용보기 진입
+- 로그인 상태에서 상단바 COMMUNTY 클릭하여 리뷰목록, 내용보기 진입
 
 ### 가입 정보 확인 및 수정
 ![정보수정페이지](https://user-images.githubusercontent.com/94945151/154912746-7865a7a9-a524-45c5-927e-ba95a36df435.PNG)
